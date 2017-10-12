@@ -1,0 +1,49 @@
+﻿빌드 시작: 2017-10-11 오후 11:16:06
+     1>2 노드의 "C:\Users\kimsunho\Desktop\RevoltProject\RevoltProject\RevoltProject.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\RevoltProject.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Lobby.cpp
+         Lobby.cpp
+     1>c:\users\kimsunho\desktop\revoltproject\revoltproject\lobby.cpp(24): warning C4316: 'UIImageView': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+     1>c:\users\kimsunho\desktop\revoltproject\revoltproject\lobby.cpp(28): warning C4316: 'UIImageView': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+     1>c:\users\kimsunho\desktop\revoltproject\revoltproject\lobby.cpp(32): warning C4316: 'UIImageView': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kimsunho\Desktop\RevoltProject\Debug\RevoltProject.exe" /INCREMENTAL /NOLOGO msimg32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\kimsunho\Desktop\RevoltProject\Debug\RevoltProject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kimsunho\Desktop\RevoltProject\Debug\RevoltProject.lib" /MACHINE:X86 Debug\RevoltProject.res
+         Debug\AllocateHierarchy.obj
+         Debug\Camera.obj
+         Debug\DeviceManager.obj
+         Debug\FontManager.obj
+         Debug\FrustomView.obj
+         Debug\Grid.obj
+         Debug\Group.obj
+         Debug\Image.obj
+         Debug\ImageManager.obj
+         Debug\KeyManager.obj
+         Debug\Lobby.obj
+         Debug\MainGame.obj
+         Debug\MtlTex.obj
+         Debug\OBB.obj
+         Debug\Object.obj
+         Debug\ObjectLoader.obj
+         Debug\ObjectManager.obj
+         Debug\ObjectMap.obj
+         Debug\Pyramid.obj
+         Debug\RevoltProject.obj
+         Debug\SkinnedMesh.obj
+         Debug\SkinnedMeshManager.obj
+         Debug\SoundManager.obj
+         Debug\stdafx.obj
+         Debug\TextManager.obj
+         Debug\TextureManager.obj
+         Debug\TimeManager.obj
+         Debug\UIButton.obj
+         Debug\UIImageView.obj
+         Debug\UIObject.obj
+         Debug\UITextChating.obj
+         Debug\UITextView.obj
+         Debug\XFileLoader.obj
+         RevoltProject.vcxproj -> C:\Users\kimsunho\Desktop\RevoltProject\Debug\RevoltProject.exe
+     1>"C:\Users\kimsunho\Desktop\RevoltProject\RevoltProject\RevoltProject.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.74
